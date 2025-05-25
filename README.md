@@ -14,3 +14,4 @@ or Download the ZIP file
 2- Open the project on your preferred IDE
 
 3- Run the main class
+Launch Tetris.java to start the game.
